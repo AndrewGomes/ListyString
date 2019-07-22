@@ -1,5 +1,5 @@
- // Andrew Gomes - COP 3502 FALL 2017
-// Sean Szumlanski
+// Andrew Gomes - COP 3502 FALL 2017
+// Professor: Dr. Sean Szumlanski
 // NID: an289864
  
 #include <stdio.h>
